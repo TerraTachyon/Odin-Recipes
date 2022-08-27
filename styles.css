@@ -1,5 +1,6 @@
 #main-header {
   text-align: center;
+  color: rgb(0, 0, 0);
 }
 
 img {
@@ -11,5 +12,21 @@ img {
 }
 
 #last-step {
-  color: aquamarine;
+  color: darkgreen;
+}
+
+#main-content {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  background-color: gainsboro;
+}
+
+body {
+  background-color: tan;
+}
+
+div p, div h2, div h3 {
+  margin: 20px;
 }
